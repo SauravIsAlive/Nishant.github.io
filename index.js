@@ -12,7 +12,7 @@ about.addEventListener('click',()=>{
                     <div class="flex relative pb-12" style="user-select: auto;">
                         <div class="flex-shrink-0 w-10 h-10 rounded-full border-2 border-green bg-white-500 inline-flex items-center justify-center text-gold relative z-10"
                             style="user-select: auto;">
-                            <i class="ph-paint-brush" style="color:gold"></i>
+                            <i class="ph-paint-brush-thick" style="color:gold"></i>
                         </div>
                         <div class="flex-grow pl-4" style="user-select: auto;">
                             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider"
