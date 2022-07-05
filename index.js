@@ -161,7 +161,7 @@ about.addEventListener('click',()=>{
         <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" class="text-gray-600 ml-1" target="_blank" style="user-select: auto;"></a>
       </p>
       <span class="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start" style="user-select: auto;">
-        <a class="ml-3 text-gray-500" href="https://intagram.com/nishantmeena149" style="user-select: auto;">
+        <a class="ml-3 text-gray-500" href="https://instagram.com/nishantmeena149" style="user-select: auto;">
           <svg fill="none" stroke="gold" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24" style="user-select: auto;">
             <rect width="20" height="20" x="2" y="2" rx="5" ry="5" style="user-select: auto;"></rect>
             <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01" style="user-select: auto;"></path>
